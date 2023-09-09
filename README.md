@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated Front-End Develo
 
 ## Let's Connect! 🌐
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-usman-00796928b/) to stay updated on my professional journey. I'm open to networking and collaborating with like-minded professionals in the tech community.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/usmantariqq/) to stay updated on my professional journey. I'm open to networking and collaborating with like-minded professionals in the tech community.
 
 ## Get in Touch
 
