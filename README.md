@@ -19,7 +19,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-
 
 ## Get in Touch
 
-📫 You can reach out to me via email at [your.email@example.com](usmantariq2k5@gmail.com).
+📫 You can reach out to me via email at (usmantariq2k5@gmail.com).
 
 ## Stay Tuned!
 
