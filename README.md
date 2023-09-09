@@ -1,4 +1,4 @@
-#Hi, I'm Usman Tariq! 👋
+Hi, I'm Usman Tariq! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic and dedicated Front-End Developer with a passion for creating captivating digital experiences. I specialize in crafting elegant user interfaces using HTML, CSS, and JavaScript.
 
