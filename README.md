@@ -1,6 +1,6 @@
-Hi, I'm Usman Tariq! 👋
+Hi, I'm Usman Tariq! 
 
-Welcome to my GitHub profile! I'm an enthusiastic and dedicated Front-End Developer with a passion for creating captivating digital experiences. I specialize in crafting elegant user interfaces using HTML, CSS, and JavaScript.
+Welcome to my GitHub profile! I'm an enthusiastic and dedicated Front-End Developer with a passion for creating captivating web experiences. I specialize in crafting elegant user interfaces using HTML, CSS, and JavaScript.
 
 ## About Me
 
@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated Front-End Develo
 ## Languages
 
 - 💻 HTML, CSS, JavaScript
-- ⚛️ React.js
-- 🎨 CSS Frameworks (like Bootstrap)
+- ⚛️ React.js, Next.js
+- 🎨 CSS Frameworks (like TailwindCSS)
 
 ## Let's Connect! 🌐
 
@@ -23,6 +23,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/usmantari
 
 ## Stay Tuned!
 
-Follow me on GitHub to stay up-to-date with my latest projects, contributions, and explorations in the realm of front-end development. Feel free to star repositories you find interesting, and let's learn and grow together! ✨
-
-#FrontEndDeveloper #HTML #CSS #JavaScript #ReactJS #WebDevelopment
+Follow me on GitHub to stay up-to-date with my latest projects, contributions, and explorations in the realm of front-end development. Feel free to star repositories you find interesting, and let's learn and grow together! 
